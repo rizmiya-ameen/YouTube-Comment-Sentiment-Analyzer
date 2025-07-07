@@ -1,0 +1,10 @@
+python -m venv venv
+
+to activate
+.\venv\Scripts\activate
+
+
+pip install pandas numpy tensorflow scikit-learn
+
+downloaded Sentiment140 dataset with 1.6 million tweets
+https://www.kaggle.com/datasets/kazanova/sentiment140
