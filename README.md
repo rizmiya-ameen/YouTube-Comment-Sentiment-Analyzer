@@ -96,7 +96,7 @@ Then visit [http://127.0.0.1:5000](http://127.0.0.1:5000) in your browser.
 
 ## 💻 Example Screenshot
 
-![Screenshot](screenshot.png)
+![screenshot.JPG](screenshot.JPG)
 
 ---
 
